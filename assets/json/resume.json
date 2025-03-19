@@ -121,8 +121,8 @@
     },
     {
         "name": "FlowDock: Geometric flow matching for generative protein-ligand docking and affinity prediction",
-        "publisher": "CASP16",
-        "releaseDate": "2024-12-01",
+        "publisher": "Intelligent Systems for Molecular Biology",
+        "releaseDate": "2025-04-01",
         "url": "https://arxiv.org/abs/2412.10966",
         "summary": "Powerful generative AI models of protein-ligand structure have recently been proposed, but few of these methods support both flexible protein-ligand docking and affinity estimation. Of those that do, none can directly model multiple binding ligands concurrently or have been rigorously benchmarked on pharmacologically relevant drug targets, hindering their widespread adoption in drug discovery efforts. In this work, we propose FlowDock, the first deep geometric generative model based on conditional flow matching that learns to directly map unbound (apo) structures to their bound (holo) counterparts for an arbitrary number of binding ligands. Furthermore, FlowDock provides predicted structural confidence scores and binding affinity values with each of its generated protein-ligand complex structures, enabling fast virtual screening of new (multi-ligand) drug targets. For the well-known PoseBusters Benchmark dataset, FlowDock outperforms single-sequence AlphaFold 3 with a 51% blind docking success rate using unbound (apo) protein input structures and without any information derived from multiple sequence alignments, and for the challenging new DockGen-E dataset, FlowDock outperforms single-sequence AlphaFold 3 and matches single-sequence Chai-1 for binding pocket generalization. Additionally, in the ligand category of the 16th community-wide Critical Assessment of Techniques for Structure Prediction (CASP16), FlowDock ranked among the top-5 methods for pharmacological binding affinity estimation across 140 protein-ligand complexes, demonstrating the efficacy of its learned representations in virtual screening. Source code, data, and pre-trained models are available at https://github.com/BioinfoMachineLearning/FlowDock."
     },
@@ -135,8 +135,8 @@
     },
     {
         "name": "Protein-ligand structure and affinity prediction in CASP16 using a geometric deep learning ensemble and flow matching",
-        "publisher": "CASP16",
-        "releaseDate": "2025-01-01",
+        "publisher": "Proteins: Structure, Function, and Bioinformatics",
+        "releaseDate": "2025-05-01",
         "url": "https://www.authorea.com/doi/full/10.22541/au.173812699.96369139",
         "summary": "Predicting the structure of ligands bound to proteins is a foundational problem in modern biotechnology and drug discovery, yet little is known about how to combine the predictions of protein-ligand structure (poses) produced by the latest deep learning methods to identify the best poses and how to accurately estimate the binding affinity between a protein target and a list of ligand candidates. Further, a blind benchmarking and assessment of protein-ligand structure and binding affinity prediction is necessary to ensure it generalizes well to new settings. Towards this end, we introduce MULTICOM_ligand, a deep learning-based protein-ligand structure and binding affinity prediction ensemble featuring structural consensus ranking for unsupervised pose ranking and a new deep generative flow matching model for joint structure and binding affinity prediction. Notably, MULTICOM_ligand ranked among the top-5 ligand prediction methods in both protein-ligand structure prediction and binding affinity prediction in the 16th Critical Assessment of Techniques for Structure Prediction (CASP16), demonstrating its efficacy and utility for real-world drug discovery efforts. The source code for MULTICOM_ligand is freely available at https://github.com/BioinfoMachineLearning/MULTICOM_ligand."
     }

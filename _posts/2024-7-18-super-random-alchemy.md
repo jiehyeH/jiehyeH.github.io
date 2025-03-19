@@ -28,7 +28,7 @@ Nassim Taleb's well-known book, [*Fooled by Randomness: The Hidden Role of Chanc
 
 ## Where are they now (and where were they then)?
 
-A slightly different topic I explored this month is that of childhood adversity and its impact on the trajectory and tenor of one's personal and professional life. The go-to book on this topic, in my view, is [*Supernormal*](https://megjay.com/supernormal/) by Meg Jay. This work explores the character traits and seasonalities of the life of a supernormal individual who has faced above-average difficulties in life, and how such individuals can learn to recognize and adapt their core beliefs about the unique opportunities that their past suffering presents.
+A slightly different topic I explored this month is that of childhood adversity and its impact on the trajectory and tenor of one's personal and professional life. A go-to book on this topic, in my view, is [*Supernormal*](https://megjay.com/supernormal/) by Meg Jay. This work explores the character traits and seasonalities of the life of a supernormal individual who has faced above-average difficulties in life, and how such individuals can learn to recognize and adapt their core beliefs about the unique opportunities that their past suffering presents.
 
 <div class="l-body">
   {% include figure.liquid path="assets/img/blog_post_images/06_2024/supernormal.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
