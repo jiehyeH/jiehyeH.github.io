@@ -3,8 +3,8 @@ layout: distill
 title: Curious characteristics
 date: 2024-11-02
 description: An annotated reading of the books I read in October 2024.
-tags: [Scientists, Values, Passion, Skills, Biases]
-categories: annotated-readings
+tags: [Science, Values, Passion, Skills, Biases]
+categories: Annotated-Readings
 giscus_comments: true
 thumbnail: assets/img/blog_post_images/11_2024/curious-characteristics.png
 ---

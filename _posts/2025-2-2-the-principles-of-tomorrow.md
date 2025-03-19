@@ -4,7 +4,7 @@ title: The principles of tomorrow
 date: 2025-2-2
 description: An annotated reading of the books I read in January 2025.
 tags: [AI, Hedge Funds, Personality]
-categories: annotated-readings
+categories: Annotated-Readings
 giscus_comments: true
 thumbnail: assets/img/blog_post_images/2_2025/the-principles-of-tomorrow.jpeg
 ---
@@ -19,6 +19,8 @@ What do artificial intelligence, hedge funds, and personality frameworks have in
 1. The Coming Wave
 2. Principles
 3. The Sacred Enneagram
+4. Company of One
+5. Ikigai & Kaizen
 
 ## Where the (tech) world is heading
 
@@ -42,6 +44,22 @@ If this is the first time you are learning about the Enneagram, if interested, I
 
 <div class="l-body">
   {% include figure.liquid path="assets/img/blog_post_images/2_2025/the-sacred-enneagram.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+## Staying small
+
+Paul Jarvis asks the readers of his book [Company of One](https://www.amazon.com/Company-One-Staying-Small-Business/dp/1328972356) to reconsider one's definition of success in business. In a world where bigger is often equated with better, Jarvis argues that staying small can be a more sustainable and fulfilling path for many entrepreneurs. He provides practical advice on how to build a business that prioritizes personal values and well-being over growth for growth's sake.
+
+<div class="l-body">
+  {% include figure.liquid path="assets/img/blog_post_images/2_2025/company-of-one.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+## Purpose behind the hustle
+
+As described by Anthony Raymond, [Ikigai and Kaizen](https://www.amazon.com/Ikigai-Kaizen-Professional-procrastinating-productive/dp/B0CN55C4JB) are two Japanese concepts that can help individuals find purpose and meaning in their lives. [Ikigai](https://en.wikipedia.org/wiki/Ikigai) refers to the intersection of what you love, what you are good at, what the world needs, and what you can be paid for. It encourages individuals to pursue their interests while also considering their impact on the world. [Kaizen](https://en.wikipedia.org/wiki/Kaizen) translates to "continuous improvement" and emphasizes the importance of small, incremental changes in one's life and work. Together, these concepts can help individuals cultivate a sense of purpose and fulfillment in their personal and professional lives.
+
+<div class="l-body">
+  {% include figure.liquid path="assets/img/blog_post_images/2_2025/ikigai-and-kaizen.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 Leggo.

@@ -4,7 +4,7 @@ title: Is that a (well-dressed) black swan over there?
 date: 2024-8-20
 description: An annotated reading of the books I read in July 2024.
 tags: [Anomalies, Fantasy, Interoception]
-categories: annotated-readings
+categories: Annotated-Readings
 giscus_comments: true
 thumbnail: assets/img/blog_post_images/08_2024/black-swans-anywhere.jpeg
 ---

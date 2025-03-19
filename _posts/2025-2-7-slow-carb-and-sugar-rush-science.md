@@ -4,7 +4,7 @@ title: Slow Carb and Sugar Rush Science
 date: 2025-2-7
 description: A naive musing on the philosophy of scientific research and beyond.
 tags: [Science, Philosophy, Inquiry]
-categories: science-musings
+categories: Musings
 giscus_comments: true
 thumbnail: assets/img/blog_post_images/2_2025/slow-carb-and-sugar-rush-science.webp
 ---

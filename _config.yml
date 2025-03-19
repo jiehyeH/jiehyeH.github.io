@@ -256,8 +256,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["literature", "research", "science", "productivity", "life"] # these tags will be displayed on the front page of your blog
-display_categories: ["annotated-readings", "productivity-posts"] # these categories will be displayed on the front page of your blog
+display_tags: ["Science", "Philosophy", "Fantasy"] # these tags will be displayed on the front page of your blog
+display_categories: ["Annotated-Readings", "Tech-Posts", "Musings"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
