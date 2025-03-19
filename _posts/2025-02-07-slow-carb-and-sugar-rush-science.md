@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Slow Carb and Sugar Rush Science
-date: 2025-2-7
+date: 2025-02-07
 description: A naive musing on the philosophy of scientific research and beyond.
 tags: [Science, Philosophy, Inquiry]
 categories: Musings

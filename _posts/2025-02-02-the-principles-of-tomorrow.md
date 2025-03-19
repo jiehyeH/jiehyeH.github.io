@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: The principles of tomorrow
-date: 2025-2-2
+date: 2025-02-02
 description: An annotated reading of the books I read in January 2025.
 tags: [AI, Hedge Funds, Personality]
 categories: Annotated-Readings
