@@ -316,18 +316,18 @@ joshi2025grnade,
   abbr =         {ICML AI4Sci & SPIGM},
 }
 
-@article{morehead2024flowdock,
+@inproceedings{morehead2024flowdock,
       title={FlowDock: Geometric Flow Matching for Generative Protein-Ligand Docking and Affinity Prediction}, 
       author={Alex Morehead and Jianlin Cheng},
-      journal={arXiv},
-      year=2024,
-      note = {Presented as a top-ranked method at CASP16},
+      booktitle={Intelligent Systems for Molecular Biology (ISMB)},
+      year=2025,
+      note = {Presented as a CASP16 top-5 method},
       selected = true,
       google_scholar_id={hFOr9nPyWt4C},
       html={https://arxiv.org/abs/2412.10966},
       abstract = {Powerful generative models of protein-ligand structure have recently been proposed, but few of these methods support both flexible protein-ligand docking and affinity estimation. Of those that do, none can directly model multiple binding ligands concurrently or have been rigorously benchmarked on pharmacologically relevant drug targets, hindering their widespread adoption in drug discovery efforts. In this work, we propose FlowDock, a deep geometric generative model based on conditional flow matching that learns to directly map unbound (apo) structures to their bound (holo) counterparts for an arbitrary number of binding ligands. Furthermore, FlowDock provides predicted structural confidence scores and binding affinity values with each of its generated protein-ligand complex structures, enabling fast virtual screening of new (multi-ligand) drug targets. For the commonly-used PoseBusters Benchmark dataset, FlowDock achieves a 51% blind docking success rate using unbound (apo) protein input structures and without any information derived from multiple sequence alignments, and for the challenging new DockGen-E dataset, FlowDock matches the performance of single-sequence Chai-1 for binding pocket generalization. Additionally, in the ligand category of the 16th community-wide Critical Assessment of Techniques for Structure Prediction (CASP16), FlowDock ranked among the top-5 methods for pharmacological binding affinity estimation across 140 protein-ligand complexes, demonstrating the efficacy of its learned representations in virtual screening. Source code, data, and pre-trained models are available at https://github.com/BioinfoMachineLearning/FlowDock.},
       preview = {FlowDock.gif},
-      abbr = {CASP16},
+      abbr = {ISMB},
 }
 
 @inproceedings{morehead2025multicom,
@@ -336,6 +336,6 @@ joshi2025grnade,
   author =       {Morehead, Alex and Liu, Jian and Neupane, Pawan and
                   Giri, Nabin, and Cheng, Jianlin},
   booktitle =    {CASP16 Abstracts},
-  note =         {Presented as a top-ranked method at CASP16},
+  note =         {Presented as a CASP16 top-5 method},
   year =         2025,
 }
