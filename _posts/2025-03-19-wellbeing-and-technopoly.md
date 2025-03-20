@@ -3,7 +3,7 @@ layout: distill
 title: Wellbeing and technopoly
 date: 2025-03-19
 description: An annotated reading of the books I read in February 2025.
-tags: []
+tags: [Love, Science, Technology, Wellbeing]
 categories: Annotated-Readings
 giscus_comments: true
 thumbnail: assets/img/blog_post_images/03_2025/wellbeing-and-technopoly.webp
