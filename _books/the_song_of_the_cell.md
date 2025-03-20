@@ -2,7 +2,7 @@
 layout: book-review
 title: "The Song of the Cell"
 author: Siddhartha Mukherjee
-cover: assets/img/blog_post_images/1_2025/the-song-of-the-cell.jpg
+cover: assets/img/blog_post_images/01_2025/the-song-of-the-cell.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Cells Biology Science History

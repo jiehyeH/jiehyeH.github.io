@@ -2,11 +2,11 @@
 layout: book-review
 title: "Company of One"
 author: Paul Jarvis
-cover: assets/img/blog_post_images/2_2025/company-of-one.jpg
+cover: assets/img/blog_post_images/02_2025/company-of-one.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Business Success Size Small
-tags: january-2024
+tags: january-2025
 buy_link:
 started: 2025-01-01
 finished: 2025-01-28

@@ -2,11 +2,11 @@
 layout: book-review
 title: "Ikigai and Kaizen"
 author: Anthony Raymond
-cover: assets/img/blog_post_images/2_2025/ikigai-and-kaizen.jpg
+cover: assets/img/blog_post_images/02_2025/ikigai-and-kaizen.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Career Philosophy Life Purpose
-tags: january-2024
+tags: january-2025
 buy_link:
 started: 2025-01-01
 finished: 2025-01-28

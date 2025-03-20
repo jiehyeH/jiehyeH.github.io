@@ -2,11 +2,11 @@
 layout: book-review
 title: "The Sacred Enneagram"
 author: Christopher Heuertz
-cover: assets/img/blog_post_images/2_2025/the-sacred-enneagram.jpg
+cover: assets/img/blog_post_images/02_2025/the-sacred-enneagram.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Personality Psychology Philosophy Spirituality History
-tags: january-2024
+tags: january-2025
 buy_link:
 started: 2025-01-01
 finished: 2025-01-28

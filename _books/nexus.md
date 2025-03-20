@@ -2,7 +2,7 @@
 layout: book-review
 title: "Nexus"
 author: Yuval Noah Harari
-cover: assets/img/blog_post_images/1_2025/nexus.jpg
+cover: assets/img/blog_post_images/01_2025/nexus.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: History Technology Society Philosophy

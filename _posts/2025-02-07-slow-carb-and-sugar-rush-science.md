@@ -6,11 +6,11 @@ description: A naive musing on the philosophy of scientific research and beyond.
 tags: [Science, Philosophy, Inquiry]
 categories: Musings
 giscus_comments: true
-thumbnail: assets/img/blog_post_images/2_2025/slow-carb-and-sugar-rush-science.webp
+thumbnail: assets/img/blog_post_images/02_2025/slow-carb-and-sugar-rush-science.webp
 ---
 
 <div class="l-page">
-  {% include figure.liquid path="assets/img/blog_post_images/2_2025/slow-carb-and-sugar-rush-science.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+  {% include figure.liquid path="assets/img/blog_post_images/02_2025/slow-carb-and-sugar-rush-science.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 This (naive) post is all about science and life as I currently see it.
