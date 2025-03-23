@@ -40,4 +40,25 @@ I enjoy sharing thoughts on literature, research, and applications on <a target=
 <h4 id="about">Education</h4>
 Looking to get started with <a target='_blank' rel='noopener noreferrer' href='https://github.com/amorehead/MLForEveryone'>machine learning</a>?
 
+<h4 id="about">Mentorship</h4>
+Interested in chatting AI or active research problems?
+
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3kEeqPHbHHKn5nI0LY3-jiBcGJ2xSYQU1Hj5OLAmYSSbqq4UJbtvxnbl7gNtIHPK0PmR1Fj-_K?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+
 <hr>
