@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One acceptance by ISMB :dna:
+One paper accepted by ISMB :dna:
