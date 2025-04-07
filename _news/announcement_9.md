@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-13 16:00:00-0400
+date: 2025-04-07 16:00:00-0400
 inline: true
 related_posts: false
 ---
 
-One conditional acceptance by ISMB :dna:
+One acceptance by ISMB :dna:
