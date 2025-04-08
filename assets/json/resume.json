@@ -137,7 +137,7 @@
         "name": "Protein-ligand structure and affinity prediction in CASP16 using a geometric deep learning ensemble and flow matching",
         "publisher": "Proteins: Structure, Function, and Bioinformatics",
         "releaseDate": "2025-05-01",
-        "url": "https://www.authorea.com/doi/full/10.22541/au.173812699.96369139",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1002/prot.26827",
         "summary": "Predicting the structure of ligands bound to proteins is a foundational problem in modern biotechnology and drug discovery, yet little is known about how to combine the predictions of protein-ligand structure (poses) produced by the latest deep learning methods to identify the best poses and how to accurately estimate the binding affinity between a protein target and a list of ligand candidates. Further, a blind benchmarking and assessment of protein-ligand structure and binding affinity prediction is necessary to ensure it generalizes well to new settings. Towards this end, we introduce MULTICOM_ligand, a deep learning-based protein-ligand structure and binding affinity prediction ensemble featuring structural consensus ranking for unsupervised pose ranking and a new deep generative flow matching model for joint structure and binding affinity prediction. Notably, MULTICOM_ligand ranked among the top-5 ligand prediction methods in both protein-ligand structure prediction and binding affinity prediction in the 16th Critical Assessment of Techniques for Structure Prediction (CASP16), demonstrating its efficacy and utility for real-world drug discovery efforts. The source code for MULTICOM_ligand is freely available at https://github.com/BioinfoMachineLearning/MULTICOM_ligand."
     }
   ],
