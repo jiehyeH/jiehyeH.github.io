@@ -40,7 +40,7 @@ I enjoy sharing thoughts on literature, research, and applications on <a target=
 <h4 id="about">Education</h4>
 Looking to get started with <a target='_blank' rel='noopener noreferrer' href='https://github.com/amorehead/MLForEveryone'>machine learning</a>?
 
-<h4 id="about">Mentorship</h4>
+<h4 id="about">Mentorship/Collaboration</h4>
 Interested in chatting AI or active research problems?
 
 <!-- Google Calendar Appointment Scheduling begin -->
