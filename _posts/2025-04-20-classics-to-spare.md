@@ -20,6 +20,8 @@ For March 2025, most of my reading list focused on nonfiction, but that may chan
 2. The Hidden Life of Trees
 3. The Four Agreements
 4. The Hero's Journey
+5. Abundance
+6. The Coddling of the American Mind
 
 ## 20th century classic
 
@@ -52,5 +54,22 @@ I'm disappointed it took me this long to discover Joseph Campbell's work. [The H
 <div class="l-body">
   {% include figure.liquid path="assets/img/blog_post_images/04_2025/the-heros-journey.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
+
+## Building an expansive future
+
+[Abundance](https://www.simonandschuster.com/books/Abundance/Ezra-Klein/9781668023488), as a recent book, offers a future-focused critique of modern political systems by acknowledging the past and present realities of everyday Americans. In other words, the authors present an optimistic vision of what the future may look like for all Americans if we are intentional with how we structure society's housing policies, immigration processes, and education opportunities. Relevant and generous to most political idealogies, Abundance describes how we might build a forward-seeking future without sacrificing our modern modalities of living and enjoying life.
+
+<div class="l-body">
+  {% include figure.liquid path="assets/img/blog_post_images/04_2025/abundance.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+## Why we no longer explore ideas well
+
+In [The Coddling of the American Mind](https://www.thecoddling.com/), Greg Lukianoff and Jonathan Haidt sparked an ongoing societal conversation about the role of discourse and debate of ideas in higher education. The book highlights how, over the last decade, American colleges and universities have increasingly promoted a "fragile student" philosophy when organizing courses and discussions on campus. With an "antifragile student" philosophy, however, Lukianoff and Haidt argue that students will be better prepared to face the complexities of the modern world and future technological advancements, by equipping them with the skills necessary to mediate idealogical disagreements with composure and compassion.
+
+<div class="l-body">
+  {% include figure.liquid path="assets/img/blog_post_images/04_2025/the-coddling-of-the-american-mind.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
 
 **Alex**

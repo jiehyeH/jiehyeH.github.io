@@ -20,7 +20,8 @@ This month's book selection mixes the themes of wellbeing, love, and technology,
 2. Attached
 3. Technopoly
 4. All About Love
-5. Wellbeing
+5. The Anxious Generation
+6. Wellbeing
 
 ## Quite amusing all things considered
 
@@ -52,6 +53,14 @@ Bell Hooks' [All About Love](https://www.amazon.com/All-About-Love-New-Visions/d
 
 <div class="l-body">
   {% include figure.liquid path="assets/img/blog_post_images/03_2025/all-about-love.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+</div>
+
+## Why we are disconnected
+
+Jonathan Haidt's popular title [The Anxious Generation](https://www.anxiousgeneration.com/book) paints a bleak picture of what happens when we humans unwittingly rewire childhood norms for an entire generation of kids (i.e., Gen Z or iGen). Without mindful design behind our use of technology early on, Haidt shows how we begin building the basis of a society riddled with distrust and social isolation. Fortunately, Haidt offers many practical next steps for how to correct this social trend with intention-based social and technology engagement.
+
+<div class="l-body">
+  {% include figure.liquid path="assets/img/blog_post_images/03_2025/the-anxious-generation.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
 ## The pursuit of wellbeing
