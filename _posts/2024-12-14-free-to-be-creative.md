@@ -2,7 +2,7 @@
 layout: distill
 title: Free to be creative
 date: 2024-12-14
-description: An annotated reading of the books I read in November 2024.
+description: An annotated reading of the books I finished in November 2024.
 tags: [Creativity, Pace, Flow, Scheduling, Philosophy, Time Sci-Fi]
 categories: Annotated-Readings
 giscus_comments: true

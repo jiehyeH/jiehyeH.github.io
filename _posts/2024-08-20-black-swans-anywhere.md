@@ -2,7 +2,7 @@
 layout: distill
 title: Is that a (well-dressed) black swan over there?
 date: 2024-08-20
-description: An annotated reading of the books I read in July 2024.
+description: An annotated reading of the books I finished in July 2024.
 tags: [Anomalies, Fantasy, Interoception]
 categories: Annotated-Readings
 giscus_comments: true

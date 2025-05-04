@@ -2,7 +2,7 @@
 layout: distill
 title: Starting off the new year
 date: 2025-01-05
-description: An annotated reading of the books I read in December 2024.
+description: An annotated reading of the books I finished in December 2024.
 tags: [Comfort, Sci-Fi, Future Socioeconomics, Cell Biology, Scarcity Mindset]
 categories: Annotated-Readings
 giscus_comments: true

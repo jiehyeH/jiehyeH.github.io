@@ -2,7 +2,7 @@
 layout: distill
 title: What doesn't kill an everything bagel only makes it stronger
 date: 2024-10-20
-description: An annotated reading of the books I read in August & September 2024.
+description: An annotated reading of the books I finished in August & September 2024.
 tags: [Future-Proofing, Growth, Fantasy]
 categories: Annotated-Readings
 giscus_comments: true

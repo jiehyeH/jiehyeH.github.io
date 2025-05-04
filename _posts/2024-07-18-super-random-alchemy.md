@@ -2,7 +2,7 @@
 layout: distill
 title: Where does the (super)randomness begin and end? And do alchemists have new competition?
 date: 2024-07-18
-description: An annotated reading of the books I read in June 2024.
+description: An annotated reading of the books I finished in June 2024.
 tags: [Probability, Prediction, Fantasy, World-Building]
 categories: Annotated-Readings
 giscus_comments: true

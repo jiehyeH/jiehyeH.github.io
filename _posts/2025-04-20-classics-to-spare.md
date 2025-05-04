@@ -2,7 +2,7 @@
 layout: distill
 title: Classics to spare
 date: 2025-04-20
-description: An annotated reading of the books I read in March 2025.
+description: An annotated reading of the books I finished in March 2025.
 tags: [Creativity, Philosophy, Myths, Wellbeing]
 categories: Annotated-Readings
 giscus_comments: true
