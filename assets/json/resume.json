@@ -79,10 +79,16 @@
   ],
   "awards": [
     {
-        "title": "EECS Outstanding PhD Student Award",
-        "date": "2025-03-01",
+        "title": "Outstanding EECS PhD Student Award",
+        "date": "2025-05-01",
         "awarder": "University of Missouri-Columbia",
         "summary": "Ranked as a top EECS PhD student in the spring of 2025."
+    },
+    {
+        "title": "Outstanding Computer Science PhD Student Award",
+        "date": "2025-03-01",
+        "awarder": "University of Missouri-Columbia",
+        "summary": "Ranked as a top computer science PhD student in the spring of 2025."
     },
     {
       "title": "Dean’s Engineering Excellence Fellowship",
