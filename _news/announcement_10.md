@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my PhD [dissertation](assets/pdf/Alex_Morehead_PhD_Dissertation.pdf), with slides available [here](assets/pdf/Alex_Morehead_PhD_Research_Presentation.pdf)! :book:
+Successfully defended my PhD [dissertation](assets/pdf/Alex_Morehead_PhD_Dissertation.pdf), with slides available [here](assets/pptx/Alex_Morehead_PhD_Research_Presentation.pptx)! :book:
