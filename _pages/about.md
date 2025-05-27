@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Physics and Astronomy <a target='_blank' rel='noope
 
 profile:
   align: right
-  image: jh_prof_pic.jpeg
+  image: jh_prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <i class="fab fa-wpforms"></i>
