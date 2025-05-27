@@ -6,11 +6,11 @@ subtitle: Ph.D. Candidate in Physics and Astronomy <a target='_blank' rel='noope
 
 profile:
   align: right
-  image: jh_prof_pic.jpg
+  image: jh_prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <i class="fab fa-wpforms"></i>
-    <a href="assets/pdf/CV_JihyeHong_2025.pdf" target="_blank" title="Resume/CV">Resume/CV</a>
+    <a href="assets/pdf/CV_JihyeHong_2025.pdf" target="_blank" title="Resume/CV">CV</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
