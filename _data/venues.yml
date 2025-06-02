@@ -1,17 +1,11 @@
-"ICLR":
-  url: https://iclr.cc/
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
 
-"Bioinformatics":
-  url: https://academic.oup.com/bioinformatics
+"ApJS":
+  url: https://iopscience.iop.org/journal/0067-0049
 
-"CommsChem":
-  url: https://www.nature.com/commschem/
+"MNRAS":
+  url: https://academic.oup.com/mnras
 
-"NeurIPS MLSB":
-  url: https://www.mlsb.io/
-
-"ICML AI4Sci":
-  url: https://ai4sciencecommunity.github.io/
-
-"ICML AI4Sci & SPIGM":
-  url: https://spigmworkshop.github.io/
+"AJ":
+  url: https://iopscience.iop.org/journal/1538-3881
