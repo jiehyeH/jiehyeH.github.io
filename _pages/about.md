@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Candidate in Physics and Astronomy <a target='_blank' rel='noopener noreferrer' href='https://physics.nd.edu/'>@ND</a>
 
@@ -36,7 +36,7 @@ I also work with my other advisor, Prof. Timothy Beers, on using large-scale pho
 I started my Ph.D. in 2021 and expect to graduate in 2026. Before that, I did my M.S. in astronomy (2016–2019) and a B.S. in Earth science education (2012–2016), both at Ewha Womans University in Seoul, South Korea.
 
 Want to know a bit more about me?
-In 2019–2020, I took a break from school and spent a year on a working holiday in Victoria, Canada 🇨🇦. I love traveling and learning about different cultures ✈️. I’m a big fan of the ocean (I can't swim tho) and enjoy summer to Lake Michigan 🏖️. I’m a dog person 🐶, and I like playing piano and guitar in my free time.
+In 2019–2020, I took a break and spent a year on a working holiday in Victoria, Canada. I love traveling and learning about different cultures. I’m a big fan of the ocean (I can't swim tho) and enjoy summer to Lake Michigan. I’m a dog person and love all the baby animals.
 I also enjoy sharing moments from my Ph.D. life on <a target='_blank' rel='noopener noreferrer' href='https://blog.naver.com/hjihye1993'>my blog</a>.
 
 <hr>

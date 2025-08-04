@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-10 11:00:00-0400
+date: 2025-10-06 11:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Astrophysics seminar half talk at the Chungnam National University in Daejeon, South Korea 🌟
+Poster at the 403th International Astronomical Union Symposium in Córdoba, Spain 🗒️

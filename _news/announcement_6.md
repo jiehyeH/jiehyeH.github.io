@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-03-26 11:59:00-0400
+date: 2024-06-03 11:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Astrophysics seminar half talk at the ND in IN, USA 🌟
+Contributed talk at the CeNAM Frontiers in Nuclear Astrophysics Meeting in IN, USA 🎤

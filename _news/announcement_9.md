@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-02 11:00:00-0400
+date: 2025-01-12 11:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Poster at the Astrophysical Origins of Carbon Workshop, Tokyo, Japan 🌟
+Virtual poster at the 245th American Astronomical Society meeting, MD, USA 🗒️
