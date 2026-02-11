@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster at the 98th Korea Astronomical Society Conference in Seoul, South Korea 🗒️
+Poster at the 98th Korea Astronomical Society Conference in Seoul, South Korea

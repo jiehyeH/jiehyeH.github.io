@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster at the Astrophysical Origins of Carbon Workshop, Tokyo, Japan 🗒️
+Poster at the Astrophysical Origins of Carbon Workshop, Tokyo, Japan

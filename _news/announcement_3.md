@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Virtual poster at the 240th American Astronomical Society meeting, CA, USA 🗒️
+Virtual poster at the 240th American Astronomical Society meeting, CA, USA

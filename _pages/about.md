@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <i class="fab fa-wpforms"></i>
-    <a href="assets/pdf/CV_JihyeHong_2025.pdf" target="_blank" title="Resume/CV">CV</a>
+    <a href="assets/pdf/CV_2026_JihyeHong.pdf" target="_blank" title="Resume/CV">CV</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
@@ -28,15 +28,13 @@ latest_posts:
 ---
 
 
-Welcome! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ3ZWJwdWd5MDMydTN0NzBobHcxaHNjbHl5MHMxYnBlaHJjZ2cxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy.gif" width="40">
+Welcome! 👋🏻 I am a Galactic Archaeologist at the <a target='_blank' rel='noopener noreferrer' href='https://nd.edu/'>University of Notre Dame</a>. I study the history of the Local Group galaxies (Milky Way, nearby dwarf galaxies, Andromeda galaxy, etc.) by analyzing the stellar chemo-dynamical properties. 
 
-I study astronomy and astrophysics at the <a target='_blank' rel='noopener noreferrer' href='https://nd.edu/'>University of Notre Dame</a>. As a Galactic Archaeologist, I explore the history of the Milky Way, nearby dwarf galaxies, and the Andromeda galaxy by analyzing the stellar chemodynamical properties. <br>
-With my advisor, Prof. Evan Kirby, I use <a target='_blank' rel='noopener noreferrer' href='https://github.com/jiehyeH/M31_Fe_Mg_estimation'>machine learning</a> along with photometric and spectroscopic data to examine the chemical abundance distribution and the formation histories of distant stars. 
-I also work with my other advisor, Prof. Timothy Beers, on using large-scale photometric surveys combined with machine learning to analyze carbon estimates in ancient stars of the Milky Way and look for traces of the first stars. <br>
-I started my Ph.D. in 2021 and expect to graduate in 2026. Before that, I did my M.S. in astronomy (2016–2019) and a B.S. in Earth science education (2012–2016), both at Ewha Womans University in Seoul, South Korea.
+I work with observational (photometric and spectroscopic) data and also use <a target='_blank' rel='noopener noreferrer' href='https://github.com/jiehyeH/M31_Fe_Mg_estimation'>machine learning</a> to investigate chemical abundance distributions and trace the evolutionary histories of distant galaxies 🌌.
+I also work with big data from the large-scale photometric surveys to search for signatures of the first stars in the Milky Way and understand the Galactic history 🌟. I started my Ph.D. in June 2021 and expect to graduate in August 2026. Before that, I completed M.S. in Astronomy (2016–2019) and B.S. in Earth Science Education (2012–2016) at Ewha Womans University in Seoul, South Korea 🇰🇷.
 
-Want to know a bit more about me?
-In 2019–2020, I took a break and spent a year on a working holiday in Victoria, Canada. I love traveling and learning about different cultures. I’m a big fan of the ocean (I can't swim tho) and enjoy summer to Lake Michigan. I’m a dog person and love all the baby animals.
-I also enjoy sharing moments from my Ph.D. life on <a target='_blank' rel='noopener noreferrer' href='https://blog.naver.com/hjihye1993'>my blog</a>.
+A bit more about me: In 2019, I spent a gap year in Victoria, Canada 🍁 on a <em> working holiday </em>, it was such a beautiful place. I love traveling and learning about different cultures. I’m not very good at swimming, but I prefer water over mountains, so I enjoy spending my summers at Lake Michigan 🦦. I’m a dog person 🐾 and absolutely love all baby animals.
+I also share parts of my Ph.D. life in Korean on <a target='_blank' rel='noopener noreferrer' href='https://blog.naver.com/hjihye1993'>my blog</a>.
+
 
 <hr>

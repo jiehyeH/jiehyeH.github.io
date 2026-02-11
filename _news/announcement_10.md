@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster at the 403th International Astronomical Union Symposium in Córdoba, Spain 🗒️
+Poster at the 403th International Astronomical Union Symposium in Córdoba, Spain

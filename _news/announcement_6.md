@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Contributed talk at the CeNAM Frontiers in Nuclear Astrophysics Meeting in IN, USA 🎤
+Contributed talk at the CeNAM Frontiers in Nuclear Astrophysics Meeting in IN, USA

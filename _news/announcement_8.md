@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Astrophysics seminar half talk at the Chungnam National University in Daejeon, South Korea 🎤
+Astrophysics seminar half talk at the Chungnam National University in Daejeon, South Korea

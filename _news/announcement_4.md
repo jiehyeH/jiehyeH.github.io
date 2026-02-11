@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster at the CeNAM Frontiers in Nuclear Astrophysics Meeting in MI, USA 🗒️
+Poster at the CeNAM Frontiers in Nuclear Astrophysics Meeting in MI, USA

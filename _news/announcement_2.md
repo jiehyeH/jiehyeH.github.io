@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Poster at the 30th International Astronomical Union General Assembly in Vienna, Austria 🗒️
+Poster at the 30th International Astronomical Union General Assembly in Vienna, Austria

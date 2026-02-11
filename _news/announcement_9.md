@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Virtual poster at the 245th American Astronomical Society meeting, MD, USA 🗒️
+Virtual poster at the 245th American Astronomical Society meeting, MD, USA

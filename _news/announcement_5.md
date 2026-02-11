@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Astrophysics seminar half talk at the ND in IN, USA 🎤
+Astrophysics seminar half talk at the ND in IN, USA
